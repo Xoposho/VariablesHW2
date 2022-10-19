@@ -13,6 +13,6 @@ public class FifthTask {
         System.out.print("В школе, где "+ countClass + " классов, нужно " + countWhiteForAllClass);
         System.out.println(" белой краски и " + countBrownForAllClass + " банок коричневой краски.");
 
+//by Игорь
     }
 }
-//by Игорь

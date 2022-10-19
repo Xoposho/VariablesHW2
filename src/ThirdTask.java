@@ -10,7 +10,7 @@ public class ThirdTask {
 
         System.out.println("На каждого ученика расчитано " + countPapersForOneSchoolboy + " листов бумаги.");
 
+//by Игорь
     }
 }
 
-//by Игорь

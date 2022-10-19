@@ -10,6 +10,7 @@ public class SixthTask {
      double wightInKG = weightCocktail / 1000.0;
 
         System.out.println("Вес спорт-завтрака составляет: " + wightInKG + " кг.");
+
+//by Игорь
     }
 }
-//by Игорь

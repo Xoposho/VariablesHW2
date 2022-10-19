@@ -21,7 +21,6 @@ public class FourthTask {
         System.out.println("За один месяц минут машина произвела бутылок " + bottlesForMonth + " штук");
 
 
-
+//by Игорь
     }
 }
-//by Игорь

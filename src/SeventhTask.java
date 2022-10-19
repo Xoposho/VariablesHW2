@@ -20,7 +20,6 @@ class SeventhTask {
 
 
 
-
+//by Игорь
     }
 }
-//by Игорь
