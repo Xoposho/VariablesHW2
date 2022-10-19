@@ -13,3 +13,4 @@ public class ThirdTask {
     }
 }
 
+//by Igor

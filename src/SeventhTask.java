@@ -23,3 +23,4 @@ class SeventhTask {
 
     }
 }
+//by Igor
