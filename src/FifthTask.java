@@ -15,4 +15,4 @@ public class FifthTask {
 
     }
 }
-//by Igor
+//by Игорь

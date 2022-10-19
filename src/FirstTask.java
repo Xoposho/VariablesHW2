@@ -22,4 +22,4 @@ public class FirstTask {
 
     }
 }
-//by Igor
+//by Игорь

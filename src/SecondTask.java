@@ -14,4 +14,4 @@ public class SecondTask {
     }
 }
 
-//by Igor
+//by Игорь

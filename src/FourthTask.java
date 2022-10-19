@@ -24,4 +24,4 @@ public class FourthTask {
 
     }
 }
-//by Igor
+//by Игорь

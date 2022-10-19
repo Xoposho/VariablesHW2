@@ -20,4 +20,4 @@ public class EighthTask {
             System.out.println(differenceSalaryKristinaPerYear + " рублей.");
     }
 }
-//by Igor
+//by Игорь

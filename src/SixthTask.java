@@ -12,4 +12,4 @@ public class SixthTask {
         System.out.println("Вес спорт-завтрака составляет: " + wightInKG + " кг.");
     }
 }
-//by Igor
+//by Игорь
