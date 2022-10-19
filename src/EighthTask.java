@@ -18,5 +18,7 @@ public class EighthTask {
         int differenceSalaryKristinaPerYear = (salaryKristinaIncrease * 12) - (salaryKristina* 12);
             System.out.print("Кристина теперь получает " + salaryKristinaIncrease + " рублей. Годовой доход вырос на ");
             System.out.println(differenceSalaryKristinaPerYear + " рублей.");
+
+//by Игорь
     }
 }

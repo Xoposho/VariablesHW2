@@ -19,6 +19,6 @@ public class FirstTask {
         double weightDollars = 23456.836849657305834;
         System.out.println("Значение пременной weightDollars c типом double равно" + weightDollars);
 
-
+//by Игорь
     }
 }

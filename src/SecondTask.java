@@ -11,5 +11,7 @@ public class SecondTask {
         byte myCats = 67;
         char firstWordInMyName = 'I';
 
+//by Игорь
     }
 }
+
